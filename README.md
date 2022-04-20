@@ -1,3 +1,10 @@
+Steps - 
+
+1.NPM INSTALL
+2.NPM RUN
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
